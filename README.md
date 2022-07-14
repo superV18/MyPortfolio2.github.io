@@ -8,9 +8,9 @@ This is a responsive portfolio that was created with HTML, CSS, and JavaScript. 
 # 📋Sections and Pages
 
 - About me
+- Experience & Qualification
 - Services
 - Portfolio
-- Blog
 - Contact
 
 # 🛠️Technologies used
